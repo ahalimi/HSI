@@ -1,0 +1,8 @@
+11
+1 1 1 2 6
+Actino Perciformes Percidae Esox americanus 0 0
+Actino Perciformes Percidae Esox niger 0 0
+Actino Perciformes Percidae Esox lucius 0 0
+Actino Perciformes Percidae Esox masquinongy 0 0
+Actino Perciformes Percidae Stizostedion vitreum 0 0
+Actino Perciformes Percidae Stizostedion canadense 0 0

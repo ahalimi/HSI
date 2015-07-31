@@ -1,0 +1,8 @@
+11
+1 1 1 2 6
+Actino Perciformes Percidae Esox americanus 0 0
+Actino Perciformes Percidae Esox niger 0 0
+Actino Perciformes Percidae Esox lucius 0 0
+Actino Perciformes Percidae Etheostoma exile 0 0
+Actino Perciformes Percidae Etheostoma flabellare 0 0
+Actino Perciformes Percidae Etheostoma blennioides 0 0
